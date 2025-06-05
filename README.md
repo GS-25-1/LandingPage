@@ -1,12 +1,36 @@
-# React + Vite
+# 🔥 VITALERTA – Sistema Inteligente de Alerta e Resposta a Queimadas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Vitalerta Banner](./public/images/banner-vitalerta.png)
 
-Currently, two official plugins are available:
+## 🌱 Visão Geral
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**VITALERTA** é um sistema inteligente projetado para **monitoramento, alerta e resposta a queimadas**, com foco em populações vulneráveis e proteção ambiental. A plataforma combina uma **landing page informativa** com dados interativos e um **simulador de incêndio** para demonstrar como o fogo pode se alastrar e afetar diferentes regiões e grupos.
 
-## Expanding the ESLint configuration
+O projeto busca **conscientizar** a população sobre os riscos e impactos das queimadas, ao mesmo tempo que promove a **tecnologia como aliada na prevenção de desastres ambientais**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Link da Aplicação
+
+> 🟢 Acesse: [https://vitalerta.vercel.app/](https://vitalerta.vercel.app/)  
+
+---
+
+## ✨ Funcionalidades
+
+- 🧠 **Simulador de Incêndio em Python**
+- 🌍 **Interface Web Responsiva e Acessível**
+- 📊 **Gráficos com Dados sobre Queimadas**
+- 🖼️ **Componentes Animados com Framer Motion**
+- 🧭 **Design com Foco em Educação Ambiental**
+- 🧩 **Integração com Repositório GitHub**
+- 🖱️ **Imagem com Hover para acesso ao código-fonte**
+
+---
+
+## 🎯 Objetivos
+
+- Informar sobre o impacto ambiental e social das queimadas
+- Simular possíveis cenários com foco em áreas vulneráveis
+- Promover ações preventivas e tecnológicas
+- Estimular o aprendizado por meio de visualizações e interações
