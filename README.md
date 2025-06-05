@@ -1,7 +1,6 @@
-# 🔥 VITALERTA – Sistema Inteligente de Alerta e Resposta a Queimadas
+![logo](https://github.com/user-attachments/assets/23c29273-8469-422c-ab7c-454e09ffa2fa)
 
-![Vitalerta Banner](./public/images/banner-vitalerta.png)
-
+# Sistema Inteligente de Alerta e Resposta a Queimadas
 ## 🌱 Visão Geral
 
 **VITALERTA** é um sistema inteligente projetado para **monitoramento, alerta e resposta a queimadas**, com foco em populações vulneráveis e proteção ambiental. A plataforma combina uma **landing page informativa** com dados interativos e um **simulador de incêndio** para demonstrar como o fogo pode se alastrar e afetar diferentes regiões e grupos.
